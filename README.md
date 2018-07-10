@@ -1,0 +1,2 @@
+# CognoMind-ScrumPortal
+Scrum Portal
