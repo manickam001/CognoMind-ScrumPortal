@@ -8,6 +8,7 @@ import { ResetPasswordComponent } from './reset-password/reset-password.componen
 import { UserComponent } from './user/user.component';
 import { AppRoutingModule } from './app-routing.module';
 import { RootComponent } from './root/root.component';
+import { WebComponent } from './web/web.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { RootComponent } from './root/root.component';
     HomeComponent,
     ResetPasswordComponent,
     UserComponent,
-    RootComponent
+    RootComponent,
+    WebComponent
   ],
   imports: [
     BrowserModule,
